@@ -34,6 +34,13 @@ CREATE TABLE options (
     opt1 TEXT, opt2 TEXT, opt3 TEXT, opt4 TEXT
 );
 ```
+
+## 🗄️ Database Setup (1 Command!)
+
+```bash
+mysql -u root -p < database.sql
+```
+
 Sample Data (10 questions):
 
 Carbohydrates, Proteins, Vitamins, Elements
